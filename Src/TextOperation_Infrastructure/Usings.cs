@@ -1,0 +1,9 @@
+﻿global using Microsoft.Extensions.DependencyInjection;
+global using System.Net;
+global using System.Text.RegularExpressions;
+global using TextOperation_Application.Common.Interfaces.Regex;
+global using TextOperation_Application.Common.Interfaces.RegextControllerOperation;
+global using TextOperation_Application.Common.Model;
+global using TextOperation_Application.Common.Model.Dtos.ShowResultOfCheckVideoMessage;
+global using TextOperation_Infrastructure.Services.Regex;
+global using TextOperation_Infrastructure.Services.RegextControllerOperation;
